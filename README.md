@@ -8,15 +8,15 @@ Formerly:
 - Google - Material and Lit
 - Facebook - Data Center Tools.
 
->"[...] we have extended our central nervous system itself in a global embrace, abolishing both space and time as far as our planet is concerned.\
-\
-– Marshall McLuhan, Understanding Media, 1964.
-
 The internet is a public utility and should be treated like one. Here's an [example](https://epb.com/campaigns/residential-internet) of a `public internet utility` in Chattanooga, TN providing a `1Gb` fiberoptic connection with no data caps for `1/3rd` of my Comcast bill in San Francisco, CA.
 
 Vote like you're mad as hell.
 
 Favorite software-related books:
-- _Computers as Theater_ - Brenda Laurel\
-- _Code_ - Charles Petzold\
+- _Computers as Theater_ - Brenda Laurel
+- _Code_ - Charles Petzold
 - _Understanding Comics_ - Scott McCloud
+
+>"[...] we have extended our central nervous system itself in a global embrace, abolishing both space and time as far as our planet is concerned.\
+\
+– Marshall McLuhan, Understanding Media, 1964.

@@ -2,11 +2,13 @@
 
 🐺🖥️🔨
 
-I make tools and applications using Rust, Golang, and Typescript. I'm a web development advocate and a big fan of [web apis](https://developer.mozilla.org/en-US/docs/Web/API) (the browser stack).
+Currently building [The Minimalist Kitchen](https://tmk3.com).
+
+I also make tools, applications, and tutorials at [Wolfpup Software](https://w0lfpup.com).
 
 Formerly:
-- Google - Material and Lit
-- Facebook - Data Center Tools.
+- Google - [Lit](https://lit.dev), [Material](https://m3.material.io/develop/web)
+- Facebook - Data Center Tools
 
 Favorite software-related books:
 - _Computers as Theater_ - Brenda Laurel

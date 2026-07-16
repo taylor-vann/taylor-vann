@@ -1,8 +1,8 @@
 # Taylor Vann
 
-I make tools, applications, and tutorials at [Wolfpup Software](https://w-lfpup.com) 🐺🖥️⚒️.
+I create software for digital communities at [Here by There](https://herebythere.com).
 
-Currently building [The Minimalist Kitchen](https://tmk3.com).
+I also create libraries and blog at [Wolfpup Software](https://w-lfpup.com) 🐺🖥️⚒️.
 
 Formerly:
 - Google - [Lit](https://lit.dev), [Material](https://m3.material.io/develop/web)
